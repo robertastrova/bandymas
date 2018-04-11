@@ -1,1 +1,2 @@
 # bandymas
+cia atlieku papildyma
